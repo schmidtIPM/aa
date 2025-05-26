@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/schmidtIPM/Backend.git
+[submodule "Fronttend"]
+	path = Fronttend
+	url = https://github.com/schmidtIPM/Fronttend.git
